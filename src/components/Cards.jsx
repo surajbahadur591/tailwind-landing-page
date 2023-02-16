@@ -13,12 +13,12 @@ const Cards = () => {
               src={Single}
               alt=""
             />
-            <h2 className="text-2xl font-bold text-center py-8">Single User</h2>
-            <p className="text-center text-4xl font-bold">$150</p>
+            <h2 className="text-2xl font-bold text-center py-8">Individual Pack</h2>
+            <p className="text-center text-4xl font-bold">$12 <span className="text-2xl">/month</span></p>
             <div className="text-center font-medium" >
-              <p className="py-2 border-b-2 mx-8 mt-8" >1 course</p>
-              <p className="py-2 border-b-2 mx-8">1 year Access</p>
-              <p className="py-2 border-b-2 mx-8">Unlimited Watches</p>
+              <p className="py-2 border-b-2 mx-8 mt-8" >5 projects</p>
+              <p className="py-2 border-b-2 mx-8">24/7 Support</p>
+              <p className="py-2 border-b-2 mx-8">Customized charts to predict growth</p>
             </div>
             <button className="bg-[#3BDC95] w-[120px] rounded-md mx-auto my-6 font-medium py-3 text-black">Start trail</button>
           </div>
@@ -29,12 +29,12 @@ const Cards = () => {
               src={Double}
               alt=""
             />
-            <h2 className="text-2xl font-bold text-center py-8">Double User</h2>
-            <p className="text-center text-4xl font-bold">$200</p>
+            <h2 className="text-2xl font-bold text-center py-8">Startup Starter Pack</h2>
+            <p className="text-center text-4xl font-bold">$45 <span className="text-2xl">/month</span></p>
             <div className="text-center font-medium" >
-              <p className="py-2 border-b-2 mx-8 mt-8" >5 course</p>
-              <p className="py-2 border-b-2 mx-8">1 year Access</p>
-              <p className="py-2 border-b-2 mx-8">Unlimited Watches</p>
+              <p className="py-2 border-b-2 mx-8 mt-8" >200 projects</p>
+              <p className="py-2 border-b-2 mx-8">24/7 Support</p>
+              <p className="py-2 border-b-2 mx-8">Customized charts to predict growth</p>
             </div>
             <button className="bg-black w-[120px] rounded-md mx-auto my-6 font-medium py-3 text-[#3BDC95]">Start trail</button>
           </div>
@@ -46,12 +46,12 @@ const Cards = () => {
               src={Triple}
               alt=""
             />
-            <h2 className="text-2xl font-bold text-center py-8">Enterprise User</h2>
-            <p className="text-center text-4xl font-bold">$500</p>
+            <h2 className="text-2xl font-bold text-center py-8">Enterprise Pack</h2>
+            <p className="text-center text-4xl font-bold">$80 <span className="text-2xl">/month</span></p>
             <div className="text-center font-medium" >
-              <p className="py-2 border-b-2 mx-8 mt-8" >All course</p>
-              <p className="py-2 border-b-2 mx-8">1 year Access</p>
-              <p className="py-2 border-b-2 mx-8">Unlimited Watches</p>
+              <p className="py-2 border-b-2 mx-8 mt-8" >1k projects</p>
+              <p className="py-2 border-b-2 mx-8">24/7 Support</p>
+              <p className="py-2 border-b-2 mx-8">Customized charts to predict growth</p>
             </div>
             <button className="bg-[#3BDC95] w-[120px] rounded-md mx-auto my-6 font-medium py-3 text-black">Start trail</button>
           </div>
