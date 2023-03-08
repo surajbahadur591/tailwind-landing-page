@@ -14,11 +14,11 @@ const Navbar = () => {
 
       <ul className="hidden md:flex">
         
-        <li className="p-4">Services</li>
+        <li className="p-4 hover:text-[#3BDC95] transition duration-200">Services</li>
         <li className="p-4">/</li>
-        <li className="p-4">Pricing</li>
+        <li className="p-4 hover:text-[#3BDC95] transition duration-200">Pricing</li>
         <li className="p-4">/</li>
-        <li className="p-4">Contact</li>
+        <li className="p-4 hover:text-[#3BDC95] transition duration-200">Contact</li>
       </ul>
 
       {/* mobile screen  */}
@@ -40,9 +40,9 @@ const Navbar = () => {
 
         <ul className="p-4 uppercase">
           
-          <li className="p-4 border-b border-gray-500">Services</li>
-          <li className="p-4 border-b border-gray-500">Pricing</li>
-          <li className="p-4">Contact</li>
+          <li className="p-4 border-b border-gray-500  ">Services</li>
+          <li className="p-4 border-b border-gray-500 ">Pricing</li>
+          <li className="p-4 ">Contact</li>
         </ul>
         </div>
       

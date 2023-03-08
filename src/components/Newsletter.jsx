@@ -6,10 +6,11 @@ const Newsletter = () => {
     
     <div className='w-full py-16 text-white'>
 
-        <div className='max-w-[1240px] mx-auto grid lg:grid-cols-3'>
+        <div className='max-w-[1240px] mx-auto grid lg:grid-cols-2'>
 
 
-            <div className=''> <h1>Want tips & tricks and more</h1></div>
+            <div className='my-8 '> <h1 className='text-2xl px-4' >Why Work With datatech Labs?</h1>
+            <p className='py-6 px-4'>Here, at Datatech Labs, we always invest time and effort in finding the best suitable solutions for our customers needs and provide BI and data warehouse services</p></div>
 
         </div>
     </div>

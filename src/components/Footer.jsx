@@ -14,12 +14,11 @@ const Footer = () => {
             Datatech
           </h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae
-            voluptas nihil asperiores earum quaerat eaque dolorum hic? Inventore
-            ut ipsum excepturi neque error. Omnis, mollitia hic suscipit quo sit
-            aliquam.
+          We build data lakes, lakehouses and data warehouses
+implement cutting-edge analytics
+and develop Big Data applications
           </p>
-          <div className="flex justify-between md:-w-[75%] my-6">
+          <div className="flex justify-between md:-w-[75%] my-6 px-24">
             <FaGithubSquare size={30} />
             <FaInstagramSquare size={30} />
             <FaLinkedin size={30} />
@@ -28,39 +27,38 @@ const Footer = () => {
         </div>
         <div className="lg:cols-span-3 flex justify-between mt-6 ">
         <div className="text-white">
-            <h6 className="font-medium text-gray-400">Features</h6>
+            <h6 className="font-semibold  text-gray-400">Expertise</h6>
             <ul>
-                <li className="py-1" >Analtics</li>
-                <li className="py-1">Marketing</li>
-                <li className="py-1">Solution</li>
-                <li className="py-1">Pricing</li>
+                <li className="py-1" >Data Science & AI</li>
+                <li className="py-1">Machine Learning</li>
+                <li className="py-1">AI Software Development</li>
+                <li className="py-1">AI Mobile Apps Development</li>
             </ul>
         </div>
         <div className="text-white">
-            <h6 className="font-medium text-gray-400">Features</h6>
+            <h6 className="font-semibold text-gray-400">Services</h6>
             <ul>
-                <li className="py-1" >Analtics</li>
-                <li className="py-1">Marketing</li>
-                <li className="py-1">Solution</li>
-                <li className="py-1">Pricing</li>
+                <li className="py-1" >Natural Language Processing</li>
+                <li className="py-1">Data Capture & OCR</li>
+                
             </ul>
         </div>
         <div className="text-white">
-            <h6 className="font-medium text-gray-400">Features</h6>
+            <h6 className="font-semibold text-gray-400">Big Data Solutions</h6>
             <ul>
-                <li className="py-1" >Analtics</li>
-                <li className="py-1">Marketing</li>
-                <li className="py-1">Solution</li>
-                <li className="py-1">Pricing</li>
+                <li className="py-1" >BI & Data Visualizations</li>
+                <li className="py-1">Predictive Analytics</li>
+                <li className="py-1">Cloud Services</li>
+                
             </ul>
         </div>
         <div className="text-white">
-            <h6 className="font-medium text-gray-400">Features</h6>
+            <h6 className="font-semibold text-gray-400">About Us</h6>
             <ul>
-                <li className="py-1" >Analtics</li>
-                <li className="py-1">Marketing</li>
-                <li className="py-1">Solution</li>
-                <li className="py-1">Pricing</li>
+                <li className="py-1" >Success Stories</li>
+                <li className="py-1">Careers</li>
+                <li className="py-1">About</li>
+                <li className="py-1">Write for Us</li>
             </ul>
         </div>
         </div>
