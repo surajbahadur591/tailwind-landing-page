@@ -1,1 +1,1 @@
-I was learning tailwind css to make sites mobile responsive and this is the result - https://react-tailwindcss-landing-page.netlify.app/
+I was created this beautiful landing page for imaginary data analytic company called Datatech using react and tailwind css and this sites is mobile responsive - https://react-tailwindcss-landing-page.netlify.app/
